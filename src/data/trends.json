@@ -1,0 +1,110 @@
+{
+  "scan": {
+    "date": "2026-08-15",
+    "sources": ["DappRadar", "DexScreener", "Agregadores de airdrop", "Comunidade"]
+  },
+  "zones": [
+    {
+      "key": "novo",
+      "label": "Novo",
+      "status": "new",
+      "note": "Apareceu nas últimas semanas, ainda sem tutorial de YouTube te ensinando a \"farmar\". Janela de entrada cedo.",
+      "items": [
+        {
+          "name": "Yakkamon",
+          "chain": "Ronin · Thought Farm (Sunflower Land)",
+          "metricValue": "53.920",
+          "metricLabel": "de 100.000 vagas",
+          "desc": "Coletor de criaturas + farm idle. Mesmo estúdio do Sunflower Land. Token $FLOWER já confirmado, acesso antecipado por ondas a partir do Q4 2026.",
+          "todo": "Cadastre só o email no site oficial — sem carteira. Ganha um Monster Egg na hora; top 5.000 no ranking de pontos leva NFT de monstro no airdrop.",
+          "sourceUrl": "https://yakkamon.com",
+          "sourceLabel": "yakkamon.com"
+        },
+        {
+          "name": "Axis Robotics",
+          "chain": "AI / DePIN · task-to-earn",
+          "metricValue": "Grátis",
+          "metricLabel": "sem carteira obrigatória",
+          "desc": "Não é bem um \"jogo\" — você teleopera um braço robótico simulado no navegador pra treinar modelos de IA física. Pontos contam pra um airdrop futuro de contribuidor (ainda sem termos finais).",
+          "todo": "Crie conta no Axis Hub (email, Google ou X), escolha uma tarefa de simulação disponível e complete uma sessão pra começar a pontuar.",
+          "sourceUrl": "https://docs.axisrobotics.ai/product-guide/getting-started",
+          "sourceLabel": "docs.axisrobotics.ai"
+        }
+      ]
+    },
+    {
+      "key": "subindo",
+      "label": "Subindo rápido",
+      "status": "rising",
+      "note": "Tração real medida em carteiras ativas nas últimas duas semanas — ainda dá tempo, mas a janela fecha rápido.",
+      "items": [
+        {
+          "name": "Trickshot Blitz",
+          "chain": "Flow",
+          "metricValue": "400K+",
+          "metricLabel": "carteiras ativas em 2 semanas",
+          "desc": "Jogo novo na Flow. 4,6 milhões de transações processadas na estreia — crescimento muito acima da média do setor, o tipo de sinal que geralmente vem antes do jogo virar assunto comum.",
+          "todo": "Testar agora enquanto ainda não saturou; ficar de olho se abrem programa de pontos ou airdrop formal.",
+          "sourceUrl": "https://dappradar.com/rankings/category/games/2",
+          "sourceLabel": "dappradar.com/rankings"
+        }
+      ]
+    },
+    {
+      "key": "estavel",
+      "label": "Estável",
+      "status": "steady",
+      "note": "Já são conhecidos, mas ainda com atividade real — não é descoberta, é oportunidade de retomar algo que já provou funcionar.",
+      "items": [
+        {
+          "name": "Alien Worlds",
+          "chain": "Multichain",
+          "metricValue": "197,5K",
+          "metricLabel": "carteiras ativas/dia",
+          "desc": "Continua o jogo blockchain mais jogado do momento, mas caiu 4% no mês. Base grande e madura — não é onde está a oportunidade nova, mas ainda paga.",
+          "todo": "Só vale entrar se topar competir com uma base já grande e estabelecida, não pela novidade.",
+          "sourceUrl": "https://dappradar.com",
+          "sourceLabel": "dappradar.com"
+        },
+        {
+          "name": "Splinterlands",
+          "chain": "Hive",
+          "metricValue": "169K",
+          "metricLabel": "UAW/dia na Hive, +12% no mês",
+          "desc": "Card game estabelecido que reformulou a economia em junho de 2026 e está se recuperando há três meses seguidos — sinal de que vale reconsiderar se você já jogou e abandonou.",
+          "todo": "Se já teve conta antes, checar as mudanças de economia antes de julgar pelo que lembrava.",
+          "sourceUrl": "https://dappradar.com",
+          "sourceLabel": "dappradar.com"
+        }
+      ]
+    },
+    {
+      "key": "saturado",
+      "label": "Saturado",
+      "status": "saturated",
+      "note": "Já tem tutorial no YouTube, já é comentado à exaustão. Não é onde procurar tendência — mas pode ter uma última ação que ainda vale a pena.",
+      "items": [
+        {
+          "name": "Cambria",
+          "chain": "Solana · degen duels",
+          "metricValue": "14 dias",
+          "metricLabel": "janela de reivindicação do TGE",
+          "desc": "Token $RSGP lançando em agosto de 2026 com Loot Chest de airdrop. Você já conhece — a comunidade toda já sabe. A única coisa que ainda vale é não deixar a reivindicação vencer.",
+          "todo": "Se ainda não reivindicou o Loot Chest, faça agora — é grátis e leva minutos, mas a janela é curta.",
+          "sourceUrl": "https://airdrops.io/cambria/",
+          "sourceLabel": "airdrops.io/cambria"
+        },
+        {
+          "name": "Pixels",
+          "chain": "Ronin",
+          "metricValue": "2024",
+          "metricLabel": "ano em que virou mainstream",
+          "desc": "Play-to-earn maduro, com dezenas de tutoriais \"como ganhar dinheiro\" desde 2024. Você já ganhou dinheiro nele — pode continuar rendendo, mas não é mais onde a vantagem de ser cedo existe.",
+          "todo": null,
+          "sourceUrl": null,
+          "sourceLabel": null
+        }
+      ]
+    }
+  ]
+}
